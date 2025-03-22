@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3cd8c9fea49bf491aa7a4ee8846a841c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winMaterial: {fileID: 2100000, guid: 1cb75efce68234ff6a4ef595a2479fda, type: 2}
+  - loseMaterial: {fileID: 2100000, guid: 5c24177907cc343d098daa53bd67ae95, type: 2}
+  - floorMeshRenderer: {instanceID: 0}
+  - windowTransform: {instanceID: 0}
+  - Agent: {instanceID: 0}
+  - renderTexture: {instanceID: 0}
+  - propeller1: {instanceID: 0}
+  - propeller2: {instanceID: 0}
+  - propeller3: {instanceID: 0}
+  - propeller4: {instanceID: 0}
+  - goal: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
